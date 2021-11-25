@@ -1,0 +1,9 @@
+publish_interval: 100
+settings:
+  /Kd_angle/data: {is_repeat: false, max: 1.0, min: -1.0}
+  /Ki_angle/data: {is_repeat: false, max: 1.0, min: -1.0}
+  /Kp_angle/data: {is_repeat: false, max: 1.0, min: -1.0}
+  /Kd_speed/data: {is_repeat: false, max: 1.0, min: -1.0}
+  /Ki_speed/data: {is_repeat: false, max: 1.0, min: -1.0}
+  /Kp_speed/data: {is_repeat: false, max: 1.0, min: -1.0}
+texts: [/Kp_angle/data, /Ki_angle/data, /Kd_angle/data, /Kp_speed/data, /Ki_speed/data, /Kd_speed/data]
